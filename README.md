@@ -26,7 +26,7 @@ So hopefully she can sacrifice those souls at the altar to open the portal and f
 
 
 # Role decription
-> Game Engineer
+> Game Engineer Core-Loop, Website Creation
 
 # Engine/Tools
 > <img src="https://user-images.githubusercontent.com/73071252/162726330-c7b16a8c-0455-4d1e-8ee5-ab09128041d5.png" width="200" /> 
@@ -37,9 +37,8 @@ So hopefully she can sacrifice those souls at the altar to open the portal and f
 > [Parallax](https://github.com/geroj12/Moku/blob/c1ee2bce1ece64ebca26e8a5c18117e90407e43c/S4GDrittsemesterProjektGROK/Assets/ParallaxLayer.cs)
 
 # Documentation
-> - [Technical Design Document](https://github.com/geroj12/Moku/blob/0e553811c8a5f733517c59f53c5277f8e07cdb90/S4GDrittsemesterProjektGROK/Docs/SFXDocument.pdf)
-> - [SFX Document](https://github.com/geroj12/Moku/blob/6019dbff715e8235e7014f8b21bcea5a5b02322c/S4GDrittsemesterProjektGROK/Docs/TDD.pdf)
+> - [Technical Design Document](https://github.com/geroj12/Krhaken/blob/10e454a0c98aaa422085feb7c2b4079293decd38/Krhaken/Docs/Technical%20Design%20Document.pdf)
 
 # Homepage/Itch.io
-> - [Homepage](https://moku-and-the-feeding-frenzy.school4games.net/)
-> - [Itch.io](https://s4g.itch.io/moku-and-the-feeding-frenzy)
+> - [Homepage](https://krhaken.school4games.net/index.html)
+> - [Itch.io](https://s4g.itch.io/krhaken)
