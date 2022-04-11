@@ -13,10 +13,33 @@ So hopefully she can sacrifice those souls at the altar to open the portal and f
 
 # Gameplay 
 
-<img src="https://user-images.githubusercontent.com/73071252/155980646-5991b81d-bee8-43eb-aedf-e8048d2c38d5.gif" width="800" />
-> [https://www.youtube.com/watch?v=YXf7aMwwoIE]
+<img src="https://user-images.githubusercontent.com/73071252/162725521-9f0b6485-dab2-4f28-8162-a0e0889d5b81.gif" width="800" />
+
 > - ##### Adventure
 > - ##### Storytelling
 > - ##### Dynamic Music
-> - ##### Slow paced gameplay
-> - ##### Beautiful environment to look at
+> - ##### Fast paced gameplay
+> - ##### Atmospheric environment
+> - ##### Bullethell
+> - ##### Roguelike
+> [https://www.youtube.com/watch?v=YXf7aMwwoIE]
+
+
+# Role decription
+> Game Engineer
+
+# Engine/Tools
+> <img src="https://user-images.githubusercontent.com/73071252/156392267-4f301341-f902-49d8-bbc3-023aad8ab843.jpg" width="200" /> 
+> [https://unity.com/de]
+
+# Scripts
+> [Movement](/Assets/Scripts/Player/PlayerMovement.cs)
+> [Parallax](https://github.com/geroj12/Moku/blob/c1ee2bce1ece64ebca26e8a5c18117e90407e43c/S4GDrittsemesterProjektGROK/Assets/ParallaxLayer.cs)
+
+# Documentation
+> - [Technical Design Document](https://github.com/geroj12/Moku/blob/0e553811c8a5f733517c59f53c5277f8e07cdb90/S4GDrittsemesterProjektGROK/Docs/SFXDocument.pdf)
+> - [SFX Document](https://github.com/geroj12/Moku/blob/6019dbff715e8235e7014f8b21bcea5a5b02322c/S4GDrittsemesterProjektGROK/Docs/TDD.pdf)
+
+# Homepage/Itch.io
+> - [Homepage](https://moku-and-the-feeding-frenzy.school4games.net/)
+> - [Itch.io](https://s4g.itch.io/moku-and-the-feeding-frenzy)
