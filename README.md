@@ -33,8 +33,7 @@ So hopefully she can sacrifice those souls at the altar to open the portal and f
 > [https://godotengine.org/]
 
 # Scripts
-> [Movement](/Assets/Scripts/Player/PlayerMovement.cs)
-> [Parallax](https://github.com/geroj12/Moku/blob/c1ee2bce1ece64ebca26e8a5c18117e90407e43c/S4GDrittsemesterProjektGROK/Assets/ParallaxLayer.cs)
+> [Player](https://github.com/geroj12/Krhaken/blob/1c5112269a5c00b824db08da87ce0de0e30a35b1/Krhaken/src/Player/Player.gd)
 
 # Documentation
 > - [Technical Design Document](https://github.com/geroj12/Krhaken/blob/10e454a0c98aaa422085feb7c2b4079293decd38/Krhaken/Docs/Technical%20Design%20Document.pdf)
